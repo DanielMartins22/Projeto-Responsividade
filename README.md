@@ -1,6 +1,8 @@
 # Projeto Responsivo para Dispositivos Móveis 📱
 
-![Imagem do Projeto](caminho/para/imagem.png)
+<img src="https://github.com/DanielMartins22/Projeto-Responsividade/blob/main/img/Desktop.png?raw=true"/>
+<img src="https://github.com/DanielMartins22/Projeto-Responsividade/blob/main/img/Celular.png?raw=true"/>
+
 
 ## Descrição
 Este é um projeto criado utilizando HTML e CSS com o objetivo de ser totalmente responsivo para dispositivos móveis. O principal foco deste projeto foi treinar e aprimorar meus conhecimentos em design responsivo e desenvolvimento web.
